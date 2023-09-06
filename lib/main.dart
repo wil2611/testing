@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+
 import 'ui/pages/authentication/login.dart';
 
 void main() {
